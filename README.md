@@ -178,7 +178,7 @@ Example of  `token name` and `image URL` prefixes:
 - `Render` to render all your tokens within the `From`: `To` range.
 - `Export Metadata` to export all metadata files within the same `From`: `To` range.
 ## Buy the Addon
-- (insert gumroad link here)
+- https://premiero.gumroad.com/l/nftgen
 ## Installation
 1. Go to `Edit` > `Preferences` > `Addons`
 2. Press `Install` button and browse to the addon `zip` file.  
