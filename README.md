@@ -1,8 +1,8 @@
 # NFT Generator
 NFT Generator **turbocharges your creativity** by transforming isolated assets into **an explosion of unique NFT possibilities.** Forget painstaking manual combinations – The addon **randomizes, renders, and rules** your way to a diverse, stunning collection in a **single click.**
 
+[![IMAGE ALT TEXT HERE](./README_FILES/youtube_thumbnail.png)](https://youtu.be/YeOw6D8kVhM)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YeOw6D8kVhM?si=GevAYbLpkDZLzyM1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Features
 * **Randomly combine** Objects, Collections, Materials, Textures, Worlds or Animation Actions – generate **thousands of unique variations**.
